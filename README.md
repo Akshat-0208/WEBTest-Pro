@@ -1,2 +1,2 @@
-# Auto_Testing_application
-ongoing project to automatically write testcases, code to automate the given application and result in excel sheet using the inputs like : the screenshots of the application and and some necessary credentials (otp and authentication stuffs).
+# Auto-Test-Pro
+Application that automates the testing of websites by leveraging advanced technologies such as Python, the Selenium framework, and machine learning, the application will generate automation scripts that execute all website functions. The outcomes will be systematically documented in an Excel report, detailing each button's functionality and success rate helping the testers or new developers in increasing efficiency.
